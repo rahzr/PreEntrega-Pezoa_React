@@ -13,7 +13,7 @@ function App() {
       <hr />
       <h5 className='text-center'>
         Pre-Entrega
-        <div className='f-playfair' style={{ fontSize: '82px' }}>n°1</div>
+        <div className='f-playfair' style={{ fontSize: '80px' }}>n°1</div>
         Kevin Pezoa G.
       </h5>
     </>
